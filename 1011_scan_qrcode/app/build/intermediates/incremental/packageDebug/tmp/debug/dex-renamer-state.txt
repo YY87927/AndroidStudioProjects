@@ -1,0 +1,4 @@
+#Sun Oct 11 16:21:48 CST 2020
+base.0=/Users/yenyunhuang/AndroidStudioProjects/1011_scan_qrcode/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
